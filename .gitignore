@@ -1,0 +1,14 @@
+echo .DS_Store
+.vscode/*
+
+
+!.DS_Store
+
+
+
+*.jpg
+*.jpgi
+!.vscode
+*.png
+*.svg
+!.svg

@@ -1,0 +1,4 @@
+
+*.jpg
+*.jpgi
+!.vscode
